@@ -160,11 +160,11 @@
 a.author[href$="reddit.com/user/andrewchambers"]:before, 
 a.author[href$="reddit.com/user/PezRadar"]:before, 
 a.author[href$="reddit.com/user/Ulvareth"]:before,
+a.author[href$="reddit.com/user/vaeflare"]:before,
 a.author[href$="reddit.com/user/wyattcheng"]:before, 
 a.author[href$="reddit.com/user/Blizz_MatthewBerger"]:before,
 a.author[href$="reddit.com/user/blizz_rogerhughston"]:before, 
 a.author[href$="reddit.com/user/BlizzRichieMarella"]:before, 
-
 a.author[href$="reddit.com/user/Blizz_KevinMartens"]:before, 
 
 /*Other*/
@@ -234,6 +234,7 @@ a.author[href$="reddit.com/user/blizz_rogerhughston"]:after {
 }
 
 /* Artists */
+a.author[href$="reddit.com/user/vaeflare"]:after,
 a.author[href$="reddit.com/user/BlizzRichieMarella"]:after {
   content: "Artist";
   color: #00B4FF !important;
@@ -247,6 +248,7 @@ a.author[href$="reddit.com/user/BlizzRichieMarella"]:after {
 a.author[href$="reddit.com/user/andrewchambers"], 
 a.author[href$="reddit.com/user/PezRadar"], 
 a.author[href$="reddit.com/user/Ulvareth"],
+a.author[href$="reddit.com/user/vaeflare"],
 a.author[href$="reddit.com/user/wyattcheng"], 
 a.author[href$="reddit.com/user/Blizz_MatthewBerger"],
 a.author[href$="reddit.com/user/blizz_rogerhughston"], 
