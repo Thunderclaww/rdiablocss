@@ -158,17 +158,16 @@
 /**** Blizzard flair for employees ****/
 /*Diablo*/
 a.author[href$="reddit.com/user/andrewchambers"]:before, 
-a.author[href$="reddit.com/user/_JohnYang"]:before,
 a.author[href$="reddit.com/user/PezRadar"]:before, 
 a.author[href$="reddit.com/user/Ulvareth"]:before,
 a.author[href$="reddit.com/user/wyattcheng"]:before, 
 a.author[href$="reddit.com/user/Blizz_MatthewBerger"]:before,
 a.author[href$="reddit.com/user/blizz_rogerhughston"]:before, 
 a.author[href$="reddit.com/user/BlizzRichieMarella"]:before, 
+
 a.author[href$="reddit.com/user/Blizz_KevinMartens"]:before, 
 
 /*Other*/
-a.author[href$="reddit.com/user/Araxom"]:before, 
 a.author[href$="reddit.com/user/Glaxigrav"]:before,  
 a.author[href$="reddit.com/user/Natryndon"]:before,
 a.author[href$="reddit.com/user/Orlyia"]:before,
@@ -195,7 +194,7 @@ a.author[href$="reddit.com/user/PezRadar"]:after {
 }
 
 /* Customer support */
-a.author[href$="reddit.com/user/Araxom"]:after, 
+a.author[href$="reddit.com/user/Harlsoco"]:after,
 a.author[href$="reddit.com/user/Glaxigrav"]:after, 
 a.author[href$="reddit.com/user/Natryndon"]:after,
 a.author[href$="reddit.com/user/Orlyia"]:after,
@@ -210,10 +209,10 @@ a.author[href$="reddit.com/user/Kalviery"]:after {
   background: #111;
 }
 
+
 /* Game Designers */
 a.author[href$="reddit.com/user/wyattcheng"]:after, 
 a.author[href$="reddit.com/user/andrewchambers"]:after,
-a.author[href$="reddit.com/user/_JohnYang"]:after, 
 a.author[href$="reddit.com/user/Blizz_MatthewBerger"]:after, 
 a.author[href$="reddit.com/user/Blizz_KevinMartens"]:after {
   content: "Game Designer";
@@ -246,7 +245,6 @@ a.author[href$="reddit.com/user/BlizzRichieMarella"]:after {
 
 /*Diablo*/
 a.author[href$="reddit.com/user/andrewchambers"], 
-a.author[href$="reddit.com/user/_JohnYang"],
 a.author[href$="reddit.com/user/PezRadar"], 
 a.author[href$="reddit.com/user/Ulvareth"],
 a.author[href$="reddit.com/user/wyattcheng"], 
@@ -256,7 +254,7 @@ a.author[href$="reddit.com/user/BlizzRichieMarella"],
 a.author[href$="reddit.com/user/Blizz_KevinMartens"], 
 
 /*Other*/
-a.author[href$="reddit.com/user/Araxom"], 
+a.author[href$="reddit.com/user/Harlsoco"],
 a.author[href$="reddit.com/user/Glaxigrav"], 
 a.author[href$="reddit.com/user/Natryndon"], 
 a.author[href$="reddit.com/user/Dromogaz"],
