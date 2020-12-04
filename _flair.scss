@@ -159,20 +159,21 @@
 /*Diablo*/
 a.author[href$="reddit.com/user/andrewchambers"]:before, 
 a.author[href$="reddit.com/user/PezRadar"]:before, 
-a.author[href$="reddit.com/user/Ulvareth"]:before,
-a.author[href$="reddit.com/user/vaeflare"]:before,
+a.author[href$="reddit.com/user/TheRealQwik"]:before, 
+a.author[href$="reddit.com/user/Ulvareth"]:before, 
+a.author[href$="reddit.com/user/vaeflare"]:before, 
 a.author[href$="reddit.com/user/wyattcheng"]:before, 
-a.author[href$="reddit.com/user/Blizz_MatthewBerger"]:before,
+a.author[href$="reddit.com/user/Blizz_MatthewBerger"]:before, 
 a.author[href$="reddit.com/user/blizz_rogerhughston"]:before, 
 a.author[href$="reddit.com/user/BlizzRichieMarella"]:before, 
 a.author[href$="reddit.com/user/Blizz_KevinMartens"]:before, 
 
 /*Other*/
-a.author[href$="reddit.com/user/Glaxigrav"]:before,  
-a.author[href$="reddit.com/user/Natryndon"]:before,
-a.author[href$="reddit.com/user/Orlyia"]:before,
-a.author[href$="reddit.com/user/Dromogaz"]:before,
-a.author[href$="reddit.com/user/Dalthrox"]:before,
+a.author[href$="reddit.com/user/Glaxigrav"]:before, 
+a.author[href$="reddit.com/user/Natryndon"]:before, 
+a.author[href$="reddit.com/user/Orlyia"]:before, 
+a.author[href$="reddit.com/user/Dromogaz"]:before, 
+a.author[href$="reddit.com/user/Dalthrox"]:before, 
 a.author[href$="reddit.com/user/Kalviery"]:before {
   content: url(%%blizz%%);
   margin-left: 3px;
@@ -184,7 +185,8 @@ a.author[href$="reddit.com/user/Kalviery"]:before {
 /** Job descriptions */
 
 /* Community Managers */
-a.author[href$="reddit.com/user/PezRadar"]:after {
+a.author[href$="reddit.com/user/PezRadar"]:after,
+a.author[href$="reddit.com/user/TheRealQwik"]:after {
   content: "Community Manager";
   color: #00B4FF !important;
   padding: 4px;
@@ -234,7 +236,7 @@ a.author[href$="reddit.com/user/blizz_rogerhughston"]:after {
 }
 
 /* Artists */
-a.author[href$="reddit.com/user/vaeflare"]:after,
+a.author[href$="reddit.com/user/vaeflare"]:after, 
 a.author[href$="reddit.com/user/BlizzRichieMarella"]:after {
   content: "Artist";
   color: #00B4FF !important;
@@ -247,10 +249,11 @@ a.author[href$="reddit.com/user/BlizzRichieMarella"]:after {
 /*Diablo*/
 a.author[href$="reddit.com/user/andrewchambers"], 
 a.author[href$="reddit.com/user/PezRadar"], 
-a.author[href$="reddit.com/user/Ulvareth"],
-a.author[href$="reddit.com/user/vaeflare"],
+a.author[href$="reddit.com/user/TheRealQwik"], 
+a.author[href$="reddit.com/user/Ulvareth"], 
+a.author[href$="reddit.com/user/vaeflare"], 
 a.author[href$="reddit.com/user/wyattcheng"], 
-a.author[href$="reddit.com/user/Blizz_MatthewBerger"],
+a.author[href$="reddit.com/user/Blizz_MatthewBerger"], 
 a.author[href$="reddit.com/user/blizz_rogerhughston"], 
 a.author[href$="reddit.com/user/BlizzRichieMarella"], 
 a.author[href$="reddit.com/user/Blizz_KevinMartens"], 
